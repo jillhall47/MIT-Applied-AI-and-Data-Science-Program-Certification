@@ -1,30 +1,28 @@
-# uber-demand-analysis
-Initial Uber demand analysis project
 # Uber Demand Analysis NYC
 
 ## Overview
 
-This project analyzes Uber pickup demand patterns across New York City using weather, time, and borough-level data.
+This project analyzes Uber pickup demand patterns across New York City using temporal, geographic, and weather-related variables.
 
-The objective was to identify the major factors influencing ride demand and generate actionable business insights for Uber operations.
+The objective was to identify factors influencing ride demand and generate actionable business recommendations for operational optimization.
 
 ---
 
 ## Dataset Features
 
-* Pickup date/time
+* Pickup datetime
 * Borough
 * Pickup count
 * Temperature
+* Wind speed
+* Visibility
 * Rainfall
 * Snow depth
-* Visibility
-* Wind speed
 * Holiday indicator
 
 ---
 
-## Tools Used
+## Tools & Technologies
 
 * Python
 * Pandas
@@ -32,30 +30,31 @@ The objective was to identify the major factors influencing ride demand and gene
 * Matplotlib
 * Seaborn
 * Google Colab
+* GitHub
 
 ---
 
 ## Key Insights
 
-* Manhattan generated the highest ride demand
-* Demand peaked during evening commute hours
-* Weekend late-night demand was especially high
-* Weather had moderate influence on ride activity
-* Uber demand steadily increased from January to June
+* Manhattan had the highest pickup demand.
+* Demand peaked during evening commute hours.
+* Weekend late-night demand remained elevated.
+* Weather had moderate impact on ride activity.
+* Demand steadily increased from January through June.
 
 ---
 
 ## Business Recommendations
 
-* Increase driver availability during evening peaks
-* Use dynamic pricing during weekend nightlife hours
-* Expand driver coverage in high-growth boroughs
-* Use predictive demand forecasting models
+* Increase driver supply during peak commute windows.
+* Implement weather-responsive surge pricing.
+* Expand operational focus in high-growth boroughs.
+* Utilize predictive forecasting models for supply allocation.
 
 ---
 
 ## Author
 
 Jillian Hall
-Entrepreneurship & AI/Healthcare Founder
 University of Utah
+Entrepreneurship | AI | Healthcare Innovation
