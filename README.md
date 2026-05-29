@@ -125,6 +125,12 @@ Develop predictive machine learning models to forecast demand and optimize drive
 * Deploy an interactive dashboard using Streamlit or Tableau
 * Explore machine learning approaches for ride demand prediction
 
+## View Full Analysis
+
+GitHub may not always render Jupyter notebooks correctly.  
+View the full rendered analysis here:
+
+[Open HTML Report](Uber_Case_Study_1.html)
 ---
 
 ## Author
