@@ -10,7 +10,7 @@ The purpose of this repository is to document my progression through the program
 
 **Jillian Hall**
 
-- Founder & CEO, CAIRA
+- Co-Founder & CEO, CAIRA
 - BS Entrepreneurship Candidate, University of Utah
 - Biology Minor
 - Cognitive Science Certificate
