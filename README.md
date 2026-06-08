@@ -1,139 +1,114 @@
-# Uber Demand Analysis NYC
+# MIT Applied AI and Data Science Program Portfolio
 
-## Project Overview
+This repository contains projects completed as part of the MIT Professional Education Applied AI and Data Science Program.
 
-This project analyzes Uber pickup demand patterns across New York City using historical ride, weather, and temporal data. The goal is to identify the factors that drive ride demand and generate data-driven recommendations that can improve operational efficiency, driver allocation, and customer experience.
-
-Through exploratory data analysis and visualization, this project uncovers how time of day, day of week, weather conditions, and borough location influence Uber demand across NYC.
+The purpose of this repository is to document my progression through the program while demonstrating practical applications of data analytics, machine learning, statistical analysis, visualization, and business intelligence across real-world datasets.
 
 ---
 
-## Business Objective
-
-As a Data Scientist supporting Uber's New York operations, the objective is to:
-
-* Understand demand fluctuations across the city
-* Identify peak demand periods
-* Measure the impact of weather conditions on ride activity
-* Discover geographic demand trends by borough
-* Generate actionable recommendations for driver deployment and surge pricing strategies
-
----
-
-## Dataset Features
-
-The dataset includes:
-
-* Pickup Datetime
-* Borough
-* Pickup Count
-* Temperature
-* Rainfall
-* Snow Depth
-* Visibility
-* Wind Speed
-* Holiday Indicator
-
----
-
-## Tools & Technologies
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Google Colab
-* GitHub
-
----
-
-## Analysis Performed
-
-### Temporal Demand Analysis
-
-* Hourly demand trends
-* Daily demand patterns
-* Weekday vs. weekend comparisons
-* Seasonal demand changes
-
-### Geographic Analysis
-
-* Borough-level demand comparisons
-* Identification of high-volume pickup locations
-
-### Weather Impact Analysis
-
-* Relationship between weather conditions and ride demand
-* Effects of rainfall, snow, temperature, and visibility
-
-### Data Visualization
-
-* Time-series analysis
-* Correlation analysis
-* Distribution plots
-* Comparative borough visualizations
-
----
-
-## Key Findings
-
-### Demand Trends
-
-* Manhattan generated the highest ride demand across all boroughs.
-* Demand peaked during evening commute hours.
-* Weekend late-night demand remained consistently elevated.
-* Ride volume increased steadily from January through June.
-
-### Weather Insights
-
-* Moderate weather conditions had limited impact on demand.
-* Severe weather events created noticeable fluctuations in ride activity.
-* Reduced visibility and snowfall were associated with demand changes.
-
-### Geographic Insights
-
-* Manhattan dominated pickup volume.
-* Outer borough demand showed growth opportunities for driver expansion strategies.
-
----
-
-## Business Recommendations
-
-### Driver Allocation
-
-Increase driver availability during evening commute periods and high-demand weekend hours to reduce rider wait times.
-
-### Dynamic Pricing
-
-Implement weather-responsive surge pricing during severe weather conditions to better balance rider demand and driver supply.
-
-### Geographic Expansion
-
-Allocate additional drivers to emerging high-growth boroughs to capture increasing demand.
-
-### Demand Forecasting
-
-Develop predictive machine learning models to forecast demand and optimize driver deployment in real time.
-
----
-
-## Future Improvements
-
-* Build predictive demand forecasting models
-* Incorporate special events and holiday calendars
-* Deploy an interactive dashboard using Streamlit or Tableau
-* Explore machine learning approaches for ride demand prediction
-
-
-## Author
+## About Me
 
 **Jillian Hall**
 
-Entrepreneurship Major | University of Utah
+- Founder & CEO, CAIRA
+- BS Entrepreneurship Candidate, University of Utah
+- Biology Minor
+- Cognitive Science Certificate
+- MIT Applied AI and Data Science Program (Certificate) Participant
 
-AI, Healthcare Innovation, Data Science, and Startup Founder
+My interests focus on artificial intelligence, healthcare innovation, predictive analytics, entrepreneurship, and data-driven decision making.
 
-LinkedIn: [www.linkedin.com/in/jillianhall](http://www.linkedin.com/in/jillianhall)
+---
+
+## Repository Structure
+
+### 01. Uber Demand Analysis
+
+Analysis of Uber pickup demand patterns across New York City using historical ride and weather data.
+
+Key Skills:
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Business Intelligence
+
+Folder:
+```
+01-Uber-Demand-Analysis/
+```
+
+---
+
+### 02. FoodHub Order Analysis
+
+Analysis of customer ordering behavior, restaurant performance, cuisine demand, delivery operations, and customer satisfaction for a food delivery platform.
+
+Key Skills:
+- Exploratory Data Analysis (EDA)
+- Customer Analytics
+- Operational Analytics
+- Business Recommendations
+
+Folder:
+```
+02-FoodHub-Order-Analysis/
+```
+
+---
+
+## Skills Demonstrated
+
+### Programming
+- Python
+
+### Data Analysis
+- Pandas
+- NumPy
+
+### Visualization
+- Matplotlib
+- Seaborn
+
+### Data Science
+- Exploratory Data Analysis
+- Statistical Analysis
+- Business Intelligence
+- Predictive Analytics
+
+### Professional Skills
+- Problem Solving
+- Data Storytelling
+- Decision Support
+- Business Strategy
+
+---
+
+## Program Objectives
+
+Through this program, I am building practical experience in:
+
+- Data Analytics
+- Artificial Intelligence
+- Machine Learning
+- Predictive Modeling
+- Data Visualization
+- Business Intelligence
+- Applied Problem Solving
+
+---
+
+## Future Projects
+
+Additional projects and case studies will be added as coursework progresses through the MIT Applied AI and Data Science Program.
+
+---
+
+## Contact
+
+**Jillian Hall**
+
+Founder & CEO, CAIRA
+
+LinkedIn: www.linkedin.com/in/jillian-hall
 
 GitHub: github.com/jillhall47
