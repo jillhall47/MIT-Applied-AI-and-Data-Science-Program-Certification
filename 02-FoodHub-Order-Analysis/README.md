@@ -1,5 +1,10 @@
 # FoodHub Order Analysis
 
+## View Project
+
+- [View HTML Report](FoodHub_Order_Analysis.html)
+- [Download Notebook](FoodHub_Order_Analysis.ipynb)
+
 ## Project Overview
 
 This project analyzes customer ordering behavior, restaurant performance, cuisine demand, delivery operations, and customer ratings for FoodHub, a food delivery platform operating in New York City.
@@ -57,11 +62,5 @@ Jillian Hall
 
 MIT Applied AI and Data Science Program
 
-## View Project
-
-- [Open Notebook](FoodHub_Order_Analysis.ipynb)
-- [View HTML Report](FoodHub_Order_Analysis.html)
-
-University of Utah
 
 Founder & CEO, CAIRA
