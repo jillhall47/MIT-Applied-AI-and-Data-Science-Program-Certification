@@ -2,8 +2,8 @@
 
 ## View Project
 
-- [View HTML Report](FoodHub_Order_Analysis.html)
 - [Download Notebook](FoodHub_Order_Analysis.ipynb)
+- [View HTML Report through GitHub Pages](https://jillhall47.github.io/MIT-Applied-AI-and-Data-Science-Program-Certification/02-FoodHub-Order-Analysis/FoodHub_Order_Analysis.html)
 
 ## Project Overview
 
