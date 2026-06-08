@@ -57,6 +57,11 @@ Jillian Hall
 
 MIT Applied AI and Data Science Program
 
+## View Project
+
+- [Open Notebook](FoodHub_Order_Analysis.ipynb)
+- [View HTML Report](FoodHub_Order_Analysis.html)
+
 University of Utah
 
 Founder & CEO, CAIRA
