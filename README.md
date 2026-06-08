@@ -107,7 +107,7 @@ Additional projects and case studies will be added as coursework progresses thro
 
 **Jillian Hall**
 
-Founder & CEO, CAIRA
+Co-Founder & CEO, CAIRA
 
 LinkedIn: www.linkedin.com/in/jillian-hall
 
